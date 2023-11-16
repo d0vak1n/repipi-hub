@@ -15,7 +15,7 @@ function App() {
     <>
 
       <Box sx={{ flexGrow: 1 }}>
-        <Grid container spacing={30}>
+        <Grid container spacing={12}>
           <Grid xs={8}>
 
             <Profile />
